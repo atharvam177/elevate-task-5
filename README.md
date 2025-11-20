@@ -392,7 +392,7 @@ python decision_trees_random_forests_enhanced.py
 
 ```
 .
-├── decision_trees_random_forests_enhanced.py  # Main script
+├── DT_LR_classification.py                    # Main script
 │
 ├── heart_disease_data/                        # Auto-downloaded
 │   └── heart.csv                              # Dataset (1025 × 14)
@@ -616,4 +616,5 @@ where p_i = proportion of class i
 
 
 ---
+
 
